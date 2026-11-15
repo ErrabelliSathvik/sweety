@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Dashboard from "./components/Dashboard";
 
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "http://127.0.0.1:5000/api/auth";
 
 function App() {
   const [isLogin, setIsLogin] = useState(true);

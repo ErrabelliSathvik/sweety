@@ -243,4 +243,4 @@ npm run build
 
 ## Author
 
-Sathvik Errabelli
+Errabelli Sathvik
